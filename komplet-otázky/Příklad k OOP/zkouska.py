@@ -1,6 +1,6 @@
-# Důležité je, nehledat v tom složitosti. Objektovy programování je jen o tom, že v tvoříš objekt, kterým se říká Class = třída a ten má vlastnosti (parametry, properties) a metody (chování, functions)
-# Z objektů můžeš dědit vlastnosti a metody do dalších objektů, to je dědičnost. Můžeš mít třídu zvíře a udělat z toho kočku a psa. Dědičnost zjednodušuje kód a redukuje práci 
-# Zapouzdření znamená, že každý objekt si hlídá svoje properties a nic z venka by nemělo měnit jeho stav
+#Důležité je, nehledat v tom složitosti. Objektovy programování je jen o tom, že v tvoříš objekt, kterým se říká Class = třída a ten má vlastnosti (parametry, properties) a metody (chování, functions)
+#Z objektů můžeš dědit vlastnosti a metody do dalších objektů, to je dědičnost. Můžeš mít třídu zvíře a udělat z toho kočku a psa. Dědičnost zjednodušuje kód a redukuje práci 
+#Zapouzdření znamená, že každý objekt si hlídá svoje properties a nic z venka by nemělo měnit jeho stav
 #Polymorfismus nám říká, že můžeš při běhu připisovat metody a měnit tak chování objektu 
 
 
